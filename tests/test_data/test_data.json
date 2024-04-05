@@ -1,0 +1,21 @@
+{
+    "url": "https://en.wikipedia.org/",
+    "MainPageSectionsTexts": {
+        "FromTodaysFeaturedArticleText" : "From today's featured article",
+        "InTheNewsText" : "In the news",
+        "DidYouKnowText" : "Did you know ...",
+        "OnThisDayText" : "On this day",
+        "FromTodaysFeaturedListText" : "From today's featured list",
+        "TodaysFeaturedPictureText" : "Today's featured picture"
+    }, 
+    "ChangeLanguageTexts": {
+        "LanguageText": "Polski",
+        "WelcomeMessageText": "Witaj w Wikipedii,"
+    },
+    "SearchTexts": {
+        "SearchPlaceholderText": "Search Wikipedia",
+        "SearchInput1Text": "Ford Motor Company",
+        "SearchInput2Text": "Henry Ford",
+        "ReferenceText": "Cwiek, Sarah (January 27, 2014). \"The Middle Class Took Off 100 Years Ago ... Thanks To Henry Ford?\". National Public Radio. Retrieved February 11, 2024."
+    }
+}
