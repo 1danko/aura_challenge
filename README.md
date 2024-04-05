@@ -44,3 +44,8 @@ The test cases are documented in a Google Sheets document available here:
 
 ### Test Results and Videos
 After running tests, videos of the test runs are available in the test-results folder for review. These recordings are helpful for debugging failures and verifying test actions visually.
+
+### Github actions
+
+There is also Github Action workflow configured.
+Tests will run on push or pull request on branches main/master. The workflow will install all dependencies, install Playwright and then run the tests. It will also create the HTML report.
